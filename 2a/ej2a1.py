@@ -61,7 +61,7 @@ def sum_even_numbers_in_list_for(list_numbers):
 
 
 def sum_even_numbers_in_list_do_while(list_numbers):
-    # Write here your code
+    # Write here your code ok
     pass
 
 
